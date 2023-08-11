@@ -61,4 +61,4 @@ We welcome contributions from the community! Whether it's bug fixes, feature enh
 Resources
 Find additional resources, tutorials, and references related to LSTM-based stock price prediction in the Resources section.
 
-Embark on the exciting journey of predicting stock prices using LSTM networks. Join us in exploring the intersection of finance and machine learning, and let's push the boundaries of predictive accuracy together!
+Embark on the exciting journey of predicting stock prices using LSTM networks. Join us in exploring the intersection of finance and machine learning, and let's push the boundaries of predictive accuracy together!    
